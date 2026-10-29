@@ -1,2 +1,5 @@
-# SOLINIK-UNITY
-A modern Android anime launcher with a sleek dark interface, purple accents, and a unique visual style.  Built with Java and Gradle. More features coming soon.
+SOLINIK-UNITY — Anime FPS
+
+Мобильный 3D-шутер от первого лица в аниме-стиле с голубой магией. Вертикальный формат 9:16, управление для Android и iPhone, динамичные способности и тренировочная арена.
+
+Проект находится на стадии прототипа. Впереди — разработка игрового процесса, эффектов магии, сенсорного управления и оптимизации графики.
